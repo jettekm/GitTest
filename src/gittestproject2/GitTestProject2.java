@@ -20,6 +20,7 @@ public class GitTestProject2 {
         System.out.println("Jekm 2");
         System.out.println("hau 1");
         System.out.println("jekm 3");
+        System.out.println("jekm 4");
     }
     
 }
