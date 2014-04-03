@@ -17,12 +17,13 @@ public class GitTestProject2 {
      */
     public static void main(String[] args) {
         System.out.println("Hello World");
+        System.out.println("Jekm 2");
         System.out.println("hau 1");
         System.out.println("Hej Henrik, hvordan går det?");
-        while(true)
-        {
-            System.out.println("Gruppe 11 skal have 12 ;-D");
-        }
+        System.out.println("Gruppe 11 skal have 12 ;-D");
+        System.out.println("jekm 3");
+        System.out.println("jekm 4");
+
     }
     
 }
