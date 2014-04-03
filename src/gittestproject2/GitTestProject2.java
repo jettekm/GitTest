@@ -18,6 +18,11 @@ public class GitTestProject2 {
     public static void main(String[] args) {
         System.out.println("Hello World");
         System.out.println("hau 1");
+        System.out.println("Hej Henrik, hvordan går det?");
+        while(true)
+        {
+            System.out.println("Gruppe 11 skal have 12 ;-D");
+        }
     }
     
 }
